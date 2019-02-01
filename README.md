@@ -7,3 +7,6 @@
 ### The Pub/Sub jigs for Windows/MAC/Linux
 ![Pub/Sub](pictures/zmqProxyPubSub_0130.png)
 
+### Wireshark ZMTP tracffics
+![Wireshark](pictures/zmtpWireshark.png)
+
